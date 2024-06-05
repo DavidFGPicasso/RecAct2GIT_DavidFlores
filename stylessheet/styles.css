@@ -1,0 +1,29 @@
+h1{
+    color: rgb(10, 165, 10);
+}
+.cabecera{
+    background-color:rgb(3, 145, 3);
+    color: aliceblue;
+    height:10vh;
+    size:20px;
+    font-size:20px;
+    text-align: left;
+    justify-content: center;
+}
+
+.contenido{
+margin-top:2%;
+}
+
+.desarrollo{
+color: white;
+margin-top:27%;
+background-color: black;
+height:12vh;
+text-align: center;
+justify-content: center;
+font-size:25px;
+}
+
+
+
