@@ -1,0 +1,97 @@
+table th {
+    width:150px;
+    height:50px;
+    border-collapse: collapse;
+    border:2px black solid;
+    
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border:2px black solid;
+    
+
+    
+}
+h1{
+    color:whitesmoke;
+    font-family: 'Exo', sans-serif;
+   
+    
+}
+body{
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+    text-shadow: 1px 1px #4169E1;
+    background-image: url(https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/8/80/Academy_City_%28Aerial_View%29.png/revision/latest?cb=20190221074155);
+}
+
+.programacion{
+    background-color: aqua;
+    border-collapse: collapse;
+    border:2px black solid;
+}
+tr:nth-of-type(1)>th{
+    background-color:lemonchiffon;
+    border-collapse: collapse;
+    border:2px black solid;
+    
+}
+td[colspan]{
+    text-align: center;
+    background-color: bisque;
+    font-weight: bold;
+    border-collapse: collapse;
+    border:2px black solid;
+    
+}
+tr:nth-of-type(2)>th,
+tr:nth-of-type(3)>th,
+tr:nth-of-type(4)>th,
+tr:nth-of-type(5)>th,
+tr:nth-of-type(6)>th,
+tr:nth-of-type(7)>th,
+tr:nth-of-type(8)>th,
+tr:nth-of-type(9)>th,
+tr:nth-of-type(10)>th{
+    background-color: Azure;
+    border-collapse: collapse;
+    border:2px black solid;
+    
+
+}
+.entornosdedesarrollo{
+    background-color:lightgreen;
+    border-collapse: collapse;
+    border:2px black solid;
+    
+}
+.fol{
+    background-color:lavender;
+    border-collapse: collapse;
+    border:2px black solid;
+    
+}
+.sistemasinformaticos{
+    background-color:mediumspringgreen;
+    border-collapse: collapse;
+    border:2px black solid;
+}
+.basededatos{
+    background-color:skyblue;
+    border-collapse: collapse;
+    border:2px black solid; 
+}
+.lenguajedemarcas{
+    background-color:salmon;
+    border-collapse: collapse;
+    border:2px black solid;
+}
+.recreo{
+    background-color: beige;
+    border-collapse: collapse;
+    border:2px black solid;
+}
+
+
